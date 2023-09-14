@@ -1,6 +1,5 @@
 ### Hello there! 👋
 
-<!--
 Welcome to my GitHub page. I am a Data Scientist with a diverse background ranging from scientific programming to product management. 
 
 This repository is a compilation of projects that I've worked on for self-learning and hobby. The projects encompass a wide range of areas from data cleaning, visualization, machine learning and data analysis. They are written in various programming languages including Python and R.
@@ -16,4 +15,3 @@ Feel free to reach out if you have any questions about these projects or any oth
 * [LinkedIn](https://www.linkedin.com/in/monica-chandramurthy-m1995/)
 
 You can also find my complete portfolio on my [GitHub Page](https://monicacs5830.github.io).
--->
