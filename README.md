@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
-**monicacs5830/monicacs5830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page. I am a Data Scientist with a diverse background ranging from scientific programming to product management. 
 
-Here are some ideas to get you started:
+This repository is a compilation of projects that I've worked on for self-learning and hobby. The projects encompass a wide range of areas from data cleaning, visualization, machine learning and data analysis. They are written in various programming languages including Python and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Collaboration Opportunities
+
+I am always looking for interesting projects and collaborations in Data Science, Data Analysis and Machine Learning. If you're interested in working together, please feel free to get in touch.
+
+## Contact Me
+
+Feel free to reach out if you have any questions about these projects or any other inquiries.
+
+* [LinkedIn](https://www.linkedin.com/in/monica-chandramurthy-m1995/)
+
+You can also find my complete portfolio on my [GitHub Page](https://monicacs5830.github.io).
 -->
